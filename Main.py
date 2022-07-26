@@ -18,11 +18,11 @@ class Stack:
 
     def push(self, data):
         if not self.is_full():
-            
+                       
 
     def pop(self):
         if not self.is_empty():
-            # Write code here
+            
 
     def status(self):
         # Write code here
